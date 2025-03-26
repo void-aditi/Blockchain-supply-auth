@@ -1,2 +1,3 @@
 # Blockchain-supply-auth
-Smart contract-based Supply Chain Authentication System using Ethereum and Solidity. Ensures product authenticity and transparency through blockchain technology. Includes Solidity contracts and deployment scripts.
+Smart contract-based Supply Chain Authentication System using Ethereum and Solidity. Ensures product authenticity and transparency through blockchain technology. Includes Solidity contracts and compilation, deployment scripts.
+Here, the smart contract serves as the base code for the latest version of the Supply Chain Authentication System, where role-based access control has been implemented. In this version, anyone can add products and transfer ownership, but in the latest version, permissions and roles (such as Manufacturer, Distributor, and Retailer) have been added to enhance security and access control
